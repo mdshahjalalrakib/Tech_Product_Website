@@ -57,4 +57,61 @@
     font-size: 24px;
     margin-left: 20px;
   }
+
+  .nav-links{
+    display: flex;
+    justify-content: center;
+    
+  }
+.menu-item{
+text-decoration: none;
+list-style: none;
+
+}
+.nav-links a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 30px;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.container1{
+    background-color: #E4E4E4;
+    display: flex;
+    margin-top: 60px;
+    justify-items: center;
+    height: 400px;
+    align-items: center;
+   
+}
+
+.contentpart{
+    width: 50%;
+    height: 80%;
+    border-radius: 10px;
+      
+}
+.headline{
+    font-size: 80px;
+  }
+
+.flashsalebtn{
+    padding: 10px 30px;
+    background-color: #FF0000;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+}
+
+.photopart{
+  margin-left: 20px;
+}
+.photopart img {
+width: 70%;
+border-radius: 10px;
+}
+
   
