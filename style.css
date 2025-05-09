@@ -130,7 +130,6 @@ justify-content: center;
 }
 
 .box{
-  
   padding: 20px 40px;
   justify-items: center;
   margin-left: 40px;
@@ -143,5 +142,59 @@ justify-content: center;
   color: #FF0000;
 }
 
+.Collections{
+  font-size: 40px;
+  color:white;
+  text-align: center;
+  background-color: #131C20;
+}
+
+.container4{
+  margin-top: 30px;
+  align-content: center;
+}
+.allcards{
+ display: grid;
+
+ grid-template-columns: 270px 270px 270px 270px;
+ justify-content: center;
+}
+.card{
+  height: 553px;
+  width: 260px;
+  margin: 10px;
+  background-color:#E4E4E4;
+}
+
+.cardheading{
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+
+}
+.cardlist{ 
+  margin-left: 30px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.cardprice{
+  font-size: 30px;
+  text-align: center;
+  font-weight: 800;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cardbtn{
+padding: 10px 66px;
+border-radius: 5px;
+border: none;
+color: white;
+background-color: #FF0000;
+font-size: 25px;
+}
+
+.cardimg {
+  max-width: 40%;
+}
 
   
