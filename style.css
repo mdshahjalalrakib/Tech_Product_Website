@@ -197,4 +197,30 @@ font-size: 25px;
   max-width: 40%;
 }
 
+.bottomtext{
+  margin-top: 40px;
+  background-color: #131C20;
+  display: grid;
+  grid-template-columns: 280px 280x 280px;
+  align-items: center;
+  color: white;
+  justify-content: center; 
+  font-size: 25px;
+}
+.logoicon img{
+  width: 150px;
+  height: auto;
+}
+.implink li{
+  text-decoration: none;
+  list-style: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.contact p{
+    padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+
   
